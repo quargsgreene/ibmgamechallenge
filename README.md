@@ -1,5 +1,3 @@
-Usefulness and Complexity
-
 The purpose of this project is to introduce and educate users about superposition, quantum entanglement, and quantum time revival. 
 
 Classical GOL
